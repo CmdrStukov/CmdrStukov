@@ -7,9 +7,8 @@ I am interested in the design of algorithms; their linguistic and mechanical rea
 I enjoy problem solving and listening to music (all sorts, from classical to reggae).
 
 I am currently learning:
- - Lisp
- - C
  - Perl
+ - C
 
 Not new to programming but constantly seeking ways to push the boundaries and learn.
 
